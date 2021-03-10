@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 400 330" preserveAspectRatio="xMinYMin meet" >
+   <path d="M85.098808,117.136019v195.23" style="fill:none;stroke:#8DD5FE;stroke-width:2.6px;" id="e2_pathV" />
+   <path d="M85.098808,312.376019h60.07" style="fill:none;stroke:#8DD5FE;stroke-width:2.6px;" id="e4_pathH" />
+   <path d="M139.17,83.1h139.17" style="fill:none;stroke:#8DD5FE;stroke-width:2.6px;" id="e6_pathH" />
+   <path d="M277.33,83.1v67.08" style="fill:none;stroke:#8DD5FE;stroke-width:2.6px;" id="e12_pathV" />
+   <path d="M142.17377830750908,44.05557806912998c-45.05,24.03,-37.04,53.06,-13.02,50.06" style="fill:none;stroke:#8DD5FE;stroke-width:2.6px;" id="e14_arc3" />
+   <path d="M138.1637783075091,84.10557806913027q7.01,-11.01,-6.01,-18.02" style="fill:none;stroke:#8DD5FE;stroke-width:2.6px;" id="e16_arc2" />
+   <line id="e17_line" x1="133.1538120128827" y1="67.07574462890625" x2="141.1638217785077" y2="46.05570602416992" style="stroke:#8DD5FE;fill:none;stroke-width:2.6px;" />
+   <path d="M108.13325387365941,44.05557806912998c-45.05,24.03,-37.04,53.06,-13.02,50.06" style="fill:none;stroke:#8DD5FE;stroke-width:2.6px;" id="e4_arc3" />
+   <path d="M109.667046,80.56417q3.468592-7.468592-9.551408-14.478592" style="fill:none;stroke:#8DD5FE;stroke-width:2.6px;" id="e1_arc2" />
+   <line id="e2_line" x1="101.11573449590635" y1="65.07337951660156" x2="109.12574426153135" y2="44.05331802368164" style="stroke:#8DD5FE;fill:none;stroke-width:2.6px;" />
+   <text style="fill:black;font-family:Helvetica;font-size:20px;" x="144.17" y="122.15" id="e18_texte" xml:space="preserve" />
+   <text style="fill:#8DD5FE;font-family:Helvetica;font-size:20px;" x="181.315" y="135.993" id="e19_texte" />
+   <text style="fill:#8DD5FE;font-family:Helvetica;font-size:20px;" x="115.445" y="111.911" id="e20_texte" />
+   <text style="fill:#8DD5FE;font-family:Helvetica;font-size:20px;font-weight:normal;" x="109.778" y="111.911" id="e21_texte" />
+   <text style="fill:#8DD5FE;font-family:Helvetica;font-size:20px;" x="102.695404" y="128.20166" id="e22_texte" xml:space="preserve"><tspan x="102.695404">Lorem ipsum</tspan><tspan x="102.695404" dy="1.25em">dolor sit amet</tspan></text>
+   <text style="fill:white;font-family:Helvetica;font-size:8.7px;" x="102.976532" y="169.815994" id="e23_texte" xml:space="preserve"><tspan x="102.97624206542969" textLength="135.05132673808058">vel placerat nisl. Donec dapibus</tspan><tspan x="102.97624206542969" dy="1.25em" xml:space="preserve"> </tspan><tspan x="102.97624206542969" dy="1.25em">bibendum hendrerit. Donec convallis</tspan><tspan x="102.97624206542969" dy="1.25em" xml:space="preserve"> </tspan><tspan x="102.97624206542969" dy="1.25em">feugiat ligula, vitae finibus orci.</tspan><tspan x="102.97624206542969" dy="1.25em" xml:space="preserve"> </tspan><tspan x="102.97624206542969" dy="1.25em">Pellentesque eget risus posuere,</tspan><tspan x="102.97624206542969" dy="1.25em" xml:space="preserve"> </tspan><tspan x="102.97624206542969" dy="1.25em">condimentum enim id.</tspan></text>
+   <text style="fill:white;font-family:Helvetica;font-size:10px;font-weight:600;" x="210.290771" y="274.216492" id="e24_texte" xml:space="preserve">John Smith</text>
+   <text style="fill:white;font-family:Helvetica;font-size:6.699999809265137px;font-style:normal;font-weight:normal;" x="170.039" y="290.541" id="e25_texte">Managing Director, J.P. Morgan</text>
+</svg>
